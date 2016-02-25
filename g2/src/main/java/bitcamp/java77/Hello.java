@@ -9,5 +9,7 @@ public class Hello {
 		System.out.println("천옥");
 
 		System.out.println("kimyk");
+		
+		System.out.println("집에 갑시다");
 	}
 }
